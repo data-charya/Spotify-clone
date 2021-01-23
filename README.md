@@ -1,6 +1,4 @@
-# earth
-
-A new Flutter project.
+# Spotify clone
 
 ## Getting Started
 
