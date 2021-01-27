@@ -4,7 +4,7 @@
 
 This project is a starting point for a Flutter application.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://cdn.discordapp.com/attachments/701086382407549019/803927107423567872/spotifyapp.jpg )
 
 A few resources to get you started if this is your first Flutter project:
 
